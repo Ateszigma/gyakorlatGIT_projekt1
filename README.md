@@ -1,2 +1,4 @@
 # gyakorlatGIT_projekt1
-gyakorlat
+Szikszai Attila
+11.D
+2025.10.16
